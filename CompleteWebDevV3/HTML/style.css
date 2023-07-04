@@ -1,0 +1,10 @@
+.container {
+    background-color: #f28123;
+
+}
+
+.profile-picture {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
