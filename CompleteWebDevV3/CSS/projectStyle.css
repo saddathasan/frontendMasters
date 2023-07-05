@@ -1,0 +1,137 @@
+.body {
+    padding: 30px;
+}
+
+.checkout-page {
+    display: flex;
+    flex-direction: column;
+}
+
+.brand-header {
+    display: flex;
+    justify-content: center;
+    background-color: #43281c;
+    color: #fbf2c0;
+    font-size: 24px;
+    padding: 30px;
+    align-items: center;
+}
+
+
+.logo {
+    height: 25px;
+    position: relative;
+    bottom: 3px;
+    right: 5px;
+}
+
+.cart-section {
+    display: flex;
+
+    justify-content: space-around;
+    padding: 20px;
+}
+
+.card-property {
+    padding: 16px;
+    margin: 16px;
+    border-radius: 5px;
+    background-color: #eee1d5;
+    box-shadow: 0 1px 3px rgb(0 0 0 / 0.2);
+}
+
+.item-list {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    
+}
+
+
+
+.item {
+    display: flex;
+    width: 100%;
+    padding: 10px 10px;
+    
+}
+
+.border {
+   
+    border-bottom: 1px solid #DDB892;
+}
+
+.quantity {
+    width: 15%;
+}
+
+.product {
+    width: 65%;
+}
+
+.price {
+    width: 20%;
+    text-align: right;
+    padding-right: 10px;
+}
+
+.product-name {
+    font-weight: bold;
+}
+
+.specification {
+    color: #B08968;
+}
+
+.price {
+    font-weight: bold;
+}
+
+.payment-details {
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+}
+
+
+
+.payment {
+    display: flex;
+    flex-direction: column;
+    
+
+}
+
+.payment-input {
+    display: flex;
+    flex-direction: column;
+}
+
+.position {
+    margin-top: 20px;
+}
+
+.input-text {
+    background-color: rgba(0,0,0,0);
+    border: 2px #885a2d solid;
+    padding: 8px;
+    border-radius: 100px;
+    width: 95%;
+    text-indent: 18px;
+    font-size: 18px;
+}
+
+.invoice {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.invoice-item {
+    text-align: center;
+}
+
+
+
+
+
